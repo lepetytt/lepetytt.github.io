@@ -1,23 +1,12 @@
-#u529,#u540
+#u529,#u540,#u2860,#u2861
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: #FDFCFB;
 }
 
-#u540_align_to_page,#u534
+#u2861_align_to_page,#u534
 {
-	position: relative;
-}
-
-#u530-4
-{
-	background-color: transparent;
-	line-height: 14px;
-	color: #686868;
-	font-size: 12px;
-	font-family: open-sans, sans-serif;
-	font-weight: 600;
 	position: relative;
 }
 
@@ -42,12 +31,34 @@
 	font-weight: 600;
 }
 
+#u530-4
+{
+	background-color: transparent;
+	color: #686868;
+	font-size: 12px;
+	line-height: 14px;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	position: relative;
+}
+
+#u2862-4
+{
+	background-color: transparent;
+	color: #686868;
+	font-size: 12px;
+	line-height: 14px;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	position: relative;
+}
+
 #u531-4
 {
 	background-color: transparent;
-	line-height: 14px;
 	color: #686868;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -56,9 +67,9 @@
 #u532-4
 {
 	background-color: transparent;
-	line-height: 14px;
 	color: #686868;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -67,9 +78,9 @@
 #u539-4
 {
 	background-color: transparent;
-	line-height: 14px;
 	color: #686868;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -78,9 +89,9 @@
 #u542-4
 {
 	background-color: transparent;
-	line-height: 14px;
 	color: #686868;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -89,15 +100,15 @@
 #u544-4
 {
 	background-color: transparent;
-	line-height: 14px;
 	color: #686868;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
 }
 
-#u530-4:hover p,#u531-4:hover p,#u532-4:hover p,#u539-4:hover p,#u542-4:hover p,#u544-4:hover p
+#u530-4:hover p,#u2862-4:hover p,#u531-4:hover p,#u532-4:hover p,#u539-4:hover p,#u542-4:hover p,#u544-4:hover p
 {
 	text-decoration: underline;
 }
