@@ -1,7 +1,7 @@
 .version.article4 /* version checker */
 {
-	color: #00000A;
-	background-color: #A13F6B;
+	color: #0000F6;
+	background-color: #B22B92;
 }
 
 .html
@@ -237,14 +237,14 @@
 	margin-right: -10000px;
 	margin-top: 9px;
 	left: 799px;
-	background: transparent url("../images/otrasl-normal.png") no-repeat left top;
+	background: transparent url("../images/otrasl-normal2.png") no-repeat left top;
 	background-size: contain;
 }
 
 #u5879:hover
 {
 	margin: 9px -10000px 0px 0px;
-	background: transparent url("../images/otrasl-rollover.png") no-repeat left top;
+	background: transparent url("../images/otrasl-rollover2.png") no-repeat left top;
 	background-size: contain;
 }
 
@@ -277,14 +277,14 @@
 	margin-right: -10000px;
 	margin-top: 9px;
 	left: 998px;
-	background: transparent url("../images/obraz-normal.png") no-repeat left top;
+	background: transparent url("../images/obraz-normal2.png") no-repeat left top;
 	background-size: contain;
 }
 
 #u5881:hover
 {
 	margin: 9px -10000px 0px 0px;
-	background: transparent url("../images/obraz-rollover.png") no-repeat left top;
+	background: transparent url("../images/obraz-rollover2.png") no-repeat left top;
 	background-size: contain;
 }
 

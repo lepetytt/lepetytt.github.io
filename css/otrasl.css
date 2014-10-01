@@ -1,7 +1,7 @@
 .version.otrasl /* version checker */
 {
-	color: #0000F4;
-	background-color: #4E940A;
+	color: #0000EC;
+	background-color: #71DCD0;
 }
 
 .html
@@ -659,14 +659,14 @@
 	margin-right: -10000px;
 	margin-top: 9px;
 	left: 998px;
-	background: transparent url("../images/obraz-normal.png") no-repeat left top;
+	background: transparent url("../images/obraz-normal2.png") no-repeat left top;
 	background-size: contain;
 }
 
 #u5465:hover
 {
 	margin: 9px -10000px 0px 0px;
-	background: transparent url("../images/obraz-rollover.png") no-repeat left top;
+	background: transparent url("../images/obraz-rollover2.png") no-repeat left top;
 	background-size: contain;
 }
 
