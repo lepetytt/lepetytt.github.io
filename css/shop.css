@@ -1,0 +1,282 @@
+/*
+
+*/
+
+.version.shop /* version checker */
+{
+	color: #0000F2;
+	background-color: #C5FCD8;
+}
+
+.html
+{
+	background-color: #FFBF00;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1280px;
+	min-height: 845px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 26px;
+	padding-bottom: 26px;
+}
+
+#pu132
+{
+	width: 0.01px;
+	margin-left: 44px;
+}
+
+#u132
+{
+	z-index: 4;
+	width: 175px;
+	margin-right: -10000px;
+}
+
+#pu163
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 28px;
+	margin-left: 761px;
+}
+
+#u163
+{
+	z-index: 2;
+	width: 257px;
+	margin-right: -10000px;
+}
+
+#u158-4
+{
+	z-index: 14;
+	width: 211px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 20px;
+}
+
+#u158-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 28px;
+	margin: 8px -10000px 0px 0px;
+}
+
+#u138
+{
+	z-index: 6;
+	width: 144px;
+	margin-right: -10000px;
+	margin-top: 28px;
+	left: 1048px;
+}
+
+#u153
+{
+	z-index: 8;
+	width: 144px;
+	margin-right: -10000px;
+	margin-top: 28px;
+	left: 586px;
+}
+
+#u156-4
+{
+	z-index: 10;
+	width: 88px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 36px;
+	left: 611px;
+}
+
+#u162-4
+{
+	z-index: 18;
+	width: 110px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 36px;
+	left: 1061px;
+}
+
+#u156-4:hover,#u162-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 28px;
+	margin: 36px -10000px 0px 0px;
+}
+
+#pu381
+{
+	width: 0.01px;
+	margin-left: 44px;
+	margin-top: 44px;
+}
+
+#u381
+{
+	z-index: 40;
+	width: 578px;
+	min-height: 104px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u385
+{
+	z-index: 42;
+	width: 240px;
+	min-height: 52px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 952px;
+}
+
+#pu379
+{
+	width: 0.01px;
+	margin-left: 44px;
+	margin-top: 6px;
+}
+
+#u379
+{
+	z-index: 39;
+	width: 909px;
+	min-height: 425px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u383
+{
+	z-index: 41;
+	width: 240px;
+	min-height: 159px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 952px;
+}
+
+#pu320
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 21px;
+}
+
+#u320
+{
+	z-index: 22;
+	height: 4px;
+}
+
+#u320-bw
+{
+	z-index: 22;
+	margin-top: 13px;
+	height: 4px;
+}
+
+#u318
+{
+	z-index: 37;
+	width: 67px;
+	margin-right: -10000px;
+	left: 706px;
+}
+
+#pu322
+{
+	width: 0.01px;
+	margin-left: 44px;
+	margin-top: 11px;
+}
+
+#u322
+{
+	z-index: 23;
+	width: 70px;
+	margin-right: -10000px;
+}
+
+#u328-4
+{
+	z-index: 25;
+	width: 480px;
+	min-height: 39px;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 88px;
+}
+
+#u331
+{
+	z-index: 35;
+	width: 29px;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 867px;
+}
+
+#u330-6
+{
+	z-index: 29;
+	width: 288px;
+	min-height: 45px;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 904px;
+}
+
+@font-face
+{
+	font-family: '__Raleway_5';
+	src: url('../fonts/raleway-bold.eot');
+	src: local('☺'), url('../fonts/raleway-bold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+
+body
+{
+	position: relative;
+	min-width: 1280px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

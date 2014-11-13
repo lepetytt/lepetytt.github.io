@@ -1,181 +1,54 @@
-<manifest alg="2" build="30" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412160607255">
+<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1415916270337">
   <folder name="css">
-    <file name="site_global.css" crc="475048684"/>
-    <file name="master_a-master.css" crc="3973750024" ref="article-3:article-1:article4:index:vlast:regul:article:article-2:obshestvo:obraz:article-5:feed:biznes:finansi:otrasl"/>
-    <file name="article-3.css" crc="338070219" ref="article-3"/>
-    <file name="iefonts_article-3.css" crc="366161731" ref="article-3"/>
-    <file name="article-1.css" crc="253837511" ref="article-1"/>
-    <file name="iefonts_article-1.css" crc="270752519" ref="article-1"/>
-    <file name="article4.css" crc="4138871698" ref="article4"/>
-    <file name="iefonts_article4.css" crc="3931484023" ref="article4"/>
-    <file name="index.css" crc="490222508" ref="index"/>
-    <file name="iefonts_index.css" crc="3805588400" ref="index"/>
-    <file name="vlast.css" crc="4134716589" ref="vlast"/>
-    <file name="iefonts_vlast.css" crc="301867288" ref="vlast"/>
-    <file name="regul.css" crc="92575000" ref="regul"/>
-    <file name="iefonts_regul.css" crc="3944156361" ref="regul"/>
-    <file name="article.css" crc="3981311482" ref="article"/>
-    <file name="iefonts_article.css" crc="68394684" ref="article"/>
-    <file name="article-2.css" crc="460941361" ref="article-2"/>
-    <file name="iefonts_article-2.css" crc="4100590363" ref="article-2"/>
-    <file name="obshestvo.css" crc="117426455" ref="obshestvo"/>
-    <file name="iefonts_obshestvo.css" crc="3825913216" ref="obshestvo"/>
-    <file name="obraz.css" crc="4098482197" ref="obraz"/>
-    <file name="iefonts_obraz.css" crc="3870878710" ref="obraz"/>
-    <file name="article-5.css" crc="4002133534" ref="article-5"/>
-    <file name="iefonts_article-5.css" crc="3908704077" ref="article-5"/>
-    <file name="feed.css" crc="319868000" ref="feed"/>
-    <file name="iefonts_feed.css" crc="4160972853" ref="feed"/>
-    <file name="biznes.css" crc="4097100077" ref="biznes"/>
-    <file name="iefonts_biznes.css" crc="6158438" ref="biznes"/>
-    <file name="finansi.css" crc="201137898" ref="finansi"/>
-    <file name="iefonts_finansi.css" crc="3993234702" ref="finansi"/>
-    <file name="otrasl.css" crc="3966885072" ref="otrasl"/>
-    <file name="iefonts_otrasl.css" crc="203604504" ref="otrasl"/>
+    <file name="site_global.css" crc="527301378"/>
+    <file name="master_a-master.css" crc="144971377" ref="index:shop"/>
+    <file name="index.css" crc="4155296267" ref="index"/>
+    <file name="shop.css" crc="4073061592" ref="shop"/>
+  </folder>
+  <folder name="fonts">
+    <file name="raleway-bold.woff" crc="318806835"/>
+    <file name="raleway-bold.eot" crc="3908039874"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="museutils.js" crc="353204447" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="jquery.watch.js" crc="3923049248" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="323834883" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="webpro.js" crc="317917375" ref="index"/>
-    <file name="musewpslideshow.js" crc="177288662" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="524248676" ref="index"/>
-    <file name="touchswipe.js" crc="367691663" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4083300337" ref="article:article4:article-1:article-2:article-3:article-5"/>
+    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index:shop"/>
+    <file name="museutils.js" crc="135030331" ref="index:shop"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4136176637" ref="index"/>
+    <file name="jquery.watch.js" crc="377079819" ref="index:shop"/>
   </folder>
   <folder name="images">
-    <file name="top_logo.jpg" crc="4180319200" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="btn_login-normal.png" crc="3934069274" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="btn_login-rollover.png" crc="4180267353" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="btn_login-down.png" crc="461977379" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="btn_search-normal.png" crc="3927086554" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="btn_search-rollover.png" crc="4035209976" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="btn_search-down.png" crc="375603908" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u5929_states.png" crc="410805952" ref="index"/>
-    <file name="u5929_states-r.png" crc="3891649387" ref="index"/>
-    <file name="u5935.png" crc="534444542" ref="index"/>
-    <file name="u5935-r.png" crc="3773243896" ref="index"/>
-    <file name="u5961_states.png" crc="4227334043" ref="index"/>
-    <file name="u5961_states-r.png" crc="3997137822" ref="index"/>
-    <file name="u5975.png" crc="295446458" ref="index"/>
-    <file name="u5975-r.png" crc="79543490" ref="index"/>
-    <file name="u5987_states.png" crc="319678218" ref="index"/>
-    <file name="u5987_states-r.png" crc="3965830118" ref="index"/>
-    <file name="u6007.png" crc="3967725795" ref="index"/>
-    <file name="u6007-r.png" crc="3810835290" ref="index"/>
-    <file name="u6146_states.png" crc="3766925588" ref="index"/>
-    <file name="u6146_states-r.png" crc="248339558" ref="index"/>
-    <file name="u6163_states.png" crc="442306884" ref="index"/>
-    <file name="u6163_states-r.png" crc="4082703042" ref="index"/>
-    <file name="u6168.png" crc="495439607" ref="index"/>
-    <file name="u6168-r.png" crc="157588171" ref="index"/>
-    <file name="u6169.png" crc="3861348063" ref="index"/>
-    <file name="u6169-r.png" crc="70645677" ref="index"/>
-    <file name="u6170.png" crc="4063668478" ref="index"/>
-    <file name="u6170-r.png" crc="3798646415" ref="index"/>
-    <file name="u6172.png" crc="248652302" ref="index"/>
-    <file name="u6172-r.png" crc="4074441742" ref="index"/>
-    <file name="u6171.png" crc="4101587304" ref="index"/>
-    <file name="u6171-r.png" crc="3921674509" ref="index"/>
-    <file name="u6187_states.png" crc="442203591" ref="index"/>
-    <file name="u6187_states-r.png" crc="304169732" ref="index"/>
-    <file name="u6180.png" crc="376618228" ref="index"/>
-    <file name="u6180-r.png" crc="4202163315" ref="index"/>
-    <file name="u6182.png" crc="3913203609" ref="index"/>
-    <file name="u6182-r.png" crc="118146260" ref="index"/>
-    <file name="u6181.png" crc="4112513916" ref="index"/>
-    <file name="u6181-r.png" crc="6354016" ref="index"/>
-    <file name="u6184.png" crc="4018999502" ref="index"/>
-    <file name="u6184-r.png" crc="3985681543" ref="index"/>
-    <file name="u6203_states.png" crc="404587711" ref="index"/>
-    <file name="u6203_states-r.png" crc="171360411" ref="index"/>
-    <file name="u6196.png" crc="3877957771" ref="index"/>
-    <file name="u6196-r.png" crc="4021975859" ref="index"/>
-    <file name="u6197.png" crc="170938264" ref="index"/>
-    <file name="u6197-r.png" crc="4170482576" ref="index"/>
-    <file name="u6195.png" crc="4200180303" ref="index"/>
-    <file name="u6195-r.png" crc="3913818954" ref="index"/>
-    <file name="head_lines.png" crc="81361082" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="btn_feed_.png" crc="3916451551" ref="index:feed"/>
-    <file name="btn_allnews-normanl.png" crc="3963396483" ref="index:vlast:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="btn_allnews-rollover.png" crc="468863550" ref="index:vlast:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="otrasl-normal.png" crc="4253833791" ref="index:article-2"/>
-    <file name="otrasl-rollover.png" crc="81064699" ref="index:article-2"/>
-    <file name="ph_06.png" crc="501605064" ref="index:vlast:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="bub_obshestvo-normal.png" crc="3963659630" ref="index:article-3:article-5:obshestvo"/>
-    <file name="bub_obshestvo-rollover.png" crc="3981385444" ref="index:article-3:article-5:obshestvo"/>
-    <file name="bub_regul-normal.png" crc="4188395557" ref="index:article:article4:article-1:article-2:article-3:article-5:regul"/>
-    <file name="bub_regul-rollover.png" crc="4230687396" ref="index:article:article4:article-1:article-2:article-3:article-5:regul"/>
-    <file name="ph_05.png" crc="4276644577" ref="index:vlast:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="ph_03.png" crc="4096163275" ref="index:article:article4:article-1:article-2:article-3:article-5"/>
-    <file name="pop_articles.png" crc="379718216" ref="index"/>
-    <file name="obraz-normal.png" crc="4140121195" ref="index"/>
-    <file name="obraz-rollover.png" crc="3872423940" ref="index"/>
-    <file name="bot_logo.png" crc="106031466" ref="index:feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="vlast-normal.png" crc="87004847" ref="feed:article:article4:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="vlast-rollover.png" crc="3908970764" ref="feed:article:article4:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="fin_kont-normal.png" crc="3928981293" ref="feed:article:article4:vlast:article-1:article-2:article-3:article-5:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="fin_kont-rollover.png" crc="238175832" ref="feed:article:article4:vlast:article-1:article-2:article-3:article-5:regul:biznes:otrasl:obshestvo:obraz"/>
-    <file name="otrasl-normal2.png" crc="4269688385" ref="feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:obshestvo:obraz"/>
-    <file name="otrasl-rollover2.png" crc="60544794" ref="feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:obshestvo:obraz"/>
-    <file name="obshestvo-normal.png" crc="4080592800" ref="feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obraz"/>
-    <file name="obshestvo-rollover.png" crc="377500117" ref="feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obraz"/>
-    <file name="obraz-normal2.png" crc="147691938" ref="feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo"/>
-    <file name="obraz-rollover2.png" crc="422207687" ref="feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:biznes:otrasl:obshestvo"/>
-    <file name="biz_rin-normal.png" crc="495546962" ref="feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:otrasl:obshestvo:obraz"/>
-    <file name="biz_rin-rollover.png" crc="321249158" ref="feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:regul:otrasl:obshestvo:obraz"/>
-    <file name="sec_regul-normal.png" crc="231034324" ref="feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:biznes:otrasl:obshestvo:obraz"/>
-    <file name="sec_regul-rollover.png" crc="4222300418" ref="feed:article:article4:vlast:article-1:article-2:article-3:article-5:finansi:biznes:otrasl:obshestvo:obraz"/>
-    <file name="btn_menu-normal.png" crc="4288114378" ref="article:article4:article-1:article-2:article-3:article-5"/>
-    <file name="btn_menu-rollover.png" crc="3816949452" ref="article:article4:article-1:article-2:article-3:article-5"/>
-    <file name="btn_menu-down.png" crc="469881120" ref="article:article4:article-1:article-2:article-3:article-5"/>
-    <file name="ads_01.png" crc="367344242" ref="article:article4:article-1:article-2:article-3:article-5"/>
-    <file name="vlast-normal2.png" crc="3866755055" ref="article"/>
-    <file name="vlast-rollover2.png" crc="4181844925" ref="article"/>
-    <file name="ph_04.png" crc="459001416" ref="article"/>
-    <file name="more.png" crc="262141121" ref="article:article4:article-1:article-2:article-3:article-5"/>
-    <file name="t_vlast.jpg" crc="322583855" ref="vlast"/>
-    <file name="feed_vlast.png" crc="3897060578" ref="vlast"/>
-    <file name="bub_vlast-normal.png" crc="3866755055" ref="vlast"/>
-    <file name="bub_vlast-rollover.png" crc="4181844925" ref="vlast"/>
-    <file name="ph_07.png" crc="3986722178" ref="article-1"/>
-    <file name="ph_09.png" crc="3840208059" ref="article-5"/>
-    <file name="t_fin_kont.jpg" crc="307463791" ref="finansi"/>
-    <file name="feed_fin_kont.png" crc="185316519" ref="finansi"/>
-    <file name="bub_fin_kont-normal.png" crc="487614148" ref="finansi"/>
-    <file name="bub_fin_kont-rollover.png" crc="3881640455" ref="finansi"/>
-    <file name="t_regul.jpg" crc="106816894" ref="regul"/>
-    <file name="feed_regul.png" crc="126852854" ref="regul"/>
-    <file name="t_biz_rin.jpg" crc="4010639296" ref="biznes"/>
-    <file name="feed_biz_rin.png" crc="3933638683" ref="biznes"/>
-    <file name="bub_biz_rin-normal.png" crc="3823900005" ref="biznes"/>
-    <file name="bub_biz_rin-rollover.png" crc="4162757856" ref="biznes"/>
-    <file name="t_otrasl.jpg" crc="4261513603" ref="otrasl"/>
-    <file name="feed_otrasl.png" crc="4020647697" ref="otrasl"/>
-    <file name="bub_otrasl-normal.png" crc="4253833791" ref="otrasl"/>
-    <file name="bub_otrasl-rollover.png" crc="81064699" ref="otrasl"/>
-    <file name="t_obshestvo.jpg" crc="3864085364" ref="obshestvo"/>
-    <file name="feed_obshestvo.png" crc="4256520892" ref="obshestvo"/>
-    <file name="t_obraz.jpg" crc="3817710795" ref="obraz"/>
-    <file name="feed_obraz.png" crc="3942140218" ref="obraz"/>
-    <file name="bub_obraz-normal.png" crc="4140121195" ref="obraz"/>
-    <file name="bub_obraz-rollover.png" crc="3872423940" ref="obraz"/>
+    <file name="top_logo.png" crc="4182403506" ref="index:shop"/>
+    <file name="menu_bat_01.png" crc="4005520175" ref="index:shop"/>
+    <file name="menu_bat.png" crc="329426174" ref="index:shop"/>
+    <file name="more_but-normal.png" crc="165702445" ref="index"/>
+    <file name="more_but-rollover.png" crc="3944579877" ref="index"/>
+    <file name="order_but-normal.png" crc="3923589236" ref="index"/>
+    <file name="order_but-rollover.png" crc="328326963" ref="index"/>
+    <file name="head_bats.png" crc="3837144574" ref="index"/>
+    <file name="plug_div.jpg" crc="189103332" ref="index:shop"/>
+    <file name="battery_but-normal.png" crc="199313919" ref="index"/>
+    <file name="battery_but-rollover.png" crc="280725318" ref="index"/>
+    <file name="ups_but-normal.png" crc="4032463325" ref="index"/>
+    <file name="ups_but-rollover.png" crc="417457833" ref="index"/>
+    <file name="brand_01.png" crc="3851101696" ref="index"/>
+    <file name="brand_02.png" crc="3900313111" ref="index"/>
+    <file name="brand_03.png" crc="4096371712" ref="index"/>
+    <file name="brand_04.png" crc="424341697" ref="index"/>
+    <file name="brand_05.png" crc="3836716990" ref="index"/>
+    <file name="brand_06.png" crc="103866112" ref="index"/>
+    <file name="more_br_but-normal.png" crc="3945432884" ref="index"/>
+    <file name="more_br_but-rollover.png" crc="77064335" ref="index"/>
+    <file name="1.png" crc="4276955467" ref="index"/>
+    <file name="2.png" crc="3838255493" ref="index"/>
+    <file name="3.png" crc="4258901573" ref="index"/>
+    <file name="choose_but-normal.png" crc="503090115" ref="index"/>
+    <file name="choose_but-rollover.png" crc="4220166736" ref="index"/>
+    <file name="price_but-normal.png" crc="4012750818" ref="index"/>
+    <file name="price_but-rollover.png" crc="3943629207" ref="index"/>
+    <file name="up_but-normal.png" crc="4203342500" ref="index"/>
+    <file name="up_but-rollover.png" crc="3901022547" ref="index"/>
+    <file name="bot_logo.png" crc="423325719" ref="index:shop"/>
+    <file name="geo.png" crc="4090578138" ref="index:shop"/>
   </folder>
-  <file name="index.html" crc="491458745" mt="1412160490972" redirect="true"/>
-  <file name="feed.html" crc="364251121" mt="1409314468124" redirect="true"/>
-  <file name="article.html" crc="3950924009" mt="1409314225824" redirect="true"/>
-  <file name="article4.html" crc="352812558" mt="1409314340240" redirect="true"/>
-  <file name="vlast.html" crc="4242921088" mt="1409313067412" redirect="true"/>
-  <file name="article-1.html" crc="3926929229" mt="1409314251137" redirect="true"/>
-  <file name="article-2.html" crc="521516982" mt="1409314275790" redirect="true"/>
-  <file name="article-3.html" crc="3761756236" mt="1409314300173" redirect="true"/>
-  <file name="article-5.html" crc="4117120307" mt="1409314186701" redirect="true"/>
-  <file name="finansi.html" crc="4183476087" mt="1409313119201" redirect="true"/>
-  <file name="regul.html" crc="4085096312" mt="1409313156141" redirect="true"/>
-  <file name="biznes.html" crc="4282242635" mt="1409313199199" redirect="true"/>
-  <file name="otrasl.html" crc="3960246991" mt="1409313233163" redirect="true"/>
-  <file name="obshestvo.html" crc="342336274" mt="1409313264876" redirect="true"/>
-  <file name="obraz.html" crc="509787503" mt="1409313293736" redirect="true"/>
+  <file name="index.html" crc="3769164247" mt="1415916269516" redirect="true"/>
+  <file name="shop.html" crc="3801124186" mt="1415916204651" redirect="true"/>
 </manifest>
